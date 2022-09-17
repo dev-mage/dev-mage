@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://dev-mage.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-FFCC33?style=flat&logo=Tistory&logoColor=white"/>
+</a>
+<a href="https://dev-mage.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+</a>
+
+
 
 <!--
 **dev-mage/dev-mage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
