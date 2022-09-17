@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white">
 
+<br><br>
 <!--
 **dev-mage/dev-mage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
